@@ -12,3 +12,5 @@ req: mysql core
      libmysql-dev
      mysqlclient
      phpmyadmin(optionals)
+
+Now Compatible with Django 1.9 until 1.11
