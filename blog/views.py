@@ -4,8 +4,9 @@ from .Form import BlogForm
 from .models import *
 
 # Create your views here.
-from .models import Blog
 
+from .models import Blog
+'''
 def bloghome(request):
     return render(request,"index.html",{})
     #return HttpResponse("<body background='/home/teiyasa/Pictures/photo1.PNG'><div> <h1><center>Hello World this is my first site</center></h1> <p>tukang ketik males ya gini ngetik view doang aja males apalagi cari jodoh dasar jomblo :v </p></div></body><div> <p><center>Powered By Django 1.9</center></p>")
@@ -53,3 +54,9 @@ def blog44form(request):
         "title" : "Post Kata kata"
     }
     return render(request,"BlogForm.html",context)
+'''
+def blogbs(request):
+    context = {
+        "title" : "Login"
+    }
+    return render(request,"index.html",context)

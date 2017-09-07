@@ -51,7 +51,7 @@ MIDDLEWARE_CLASSES = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'firstweb.urls'
+ROOT_URLCONF = 'nazhiercf.urls'
 
 TEMPLATES = [
     {
@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'firstweb.wsgi.application'
+WSGI_APPLICATION = 'nazhiercf.wsgi.application'
 
 
 # Database
@@ -118,5 +118,12 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
+STATICFILES_DIRS = (
+
+    # Put strings here, like "/home/html/static" or "C:/www/django/static".
+    # Always use forward slashes, even on Windows.
+    # Don't forget to use absolute paths, not relative paths.
+    '/blog/static/',
+)
 
 STATIC_URL = '/static/'
