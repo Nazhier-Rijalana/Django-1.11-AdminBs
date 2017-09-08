@@ -1,5 +1,5 @@
-# DjangoExample1.9
-Web blog super Sederhana dari django bisa tambah konten aja :v django 1.9
+# Django web Blog 1.11
+Web blog super Sederhana dari django bisa tambah konten aja :v django 1.11
 
 
 Cuman Sederhana Makasih Udemy :v 
@@ -18,4 +18,13 @@ req: mysql core
      phpmyadmin(optionals)
 
 Now Compatible with Django 1.9 until 1.11
->>>>>>> 90e5753203d2571138a4525fcdf7327dd40eddc6
+
+please before run 
+run "pip install -r requirement.txt"
+
+Credit :
+start Bootstrap Theme GrayScale from W3SchoolLayout
+douglasmiranda
+django-admin-bootstrap
+Teiyasa 1337
+

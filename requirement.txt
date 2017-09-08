@@ -1,0 +1,4 @@
+bootstrap-admin
+python-MySQL
+mysql-client
+
