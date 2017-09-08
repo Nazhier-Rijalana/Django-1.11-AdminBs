@@ -27,4 +27,7 @@ start Bootstrap Theme GrayScale from W3SchoolLayout
 douglasmiranda
 django-admin-bootstrap
 Teiyasa 1337
+<<<<<<< HEAD
 
+=======
+>>>>>>> d15d9feb85b1d4d52ed9c898b88f6cbed9519800
