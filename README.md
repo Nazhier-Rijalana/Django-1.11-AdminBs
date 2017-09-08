@@ -4,14 +4,11 @@ Web blog super Sederhana dari django bisa tambah konten aja :v django 1.9
 
 Cuman Sederhana Makasih Udemy :v 
 
-<<<<<<< HEAD
 New Features With Mysql Db 
 
 jika mau pasang ke desktop 
 
 maka install dulu mysqlcore,libmysqlclient-dev,mysqlclient
-=======
-
 New Features now With Mysql
 
 req: mysql core
