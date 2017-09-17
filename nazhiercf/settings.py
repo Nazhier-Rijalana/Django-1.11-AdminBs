@@ -88,9 +88,9 @@ WSGI_APPLICATION = 'nazhiercf.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'nazhiercf',
+        'NAME': 'nazhiercf_db',
         'USER': 'root',
-        'PASSWORD': 'Surabaya1234@',
+        'PASSWORD': 'toor',
     }
 }
 

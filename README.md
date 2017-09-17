@@ -27,3 +27,11 @@ start Bootstrap Theme GrayScale from W3SchoolLayout
 douglasmiranda
 django-admin-bootstrap
 Teiyasa 1337
+
+please  changes the host username and password with your mysql database 
+
+this database default is mysql if you'll changes db type please install it and changes into settings.py 
+
+Migrate before Run
+
+thanks :V 
